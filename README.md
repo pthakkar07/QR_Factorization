@@ -6,3 +6,5 @@ Concepts that I have used:-
 # A = QR
 2) Finding Q using Gram–Schmidt algorithm (Refer Professor Gilbertz Strang Linear Algebra Course from MIT for concept).
 3) Here Matrix A size is n*n where n is power of 2 and strassen matrix work best for power of 2 size matrix.
+4) finding Eigen Value using R = Inv(Q)*A. 
+# Please refer Code Detail Explanation.
